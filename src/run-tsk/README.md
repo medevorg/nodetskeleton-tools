@@ -4,7 +4,7 @@ run-tsk tool is one part of the `NodeTskeleton` template project to install, to 
 
 `NodeTskeleton` is a `Clean Architecture` based `template project` for `NodeJs` using `TypeScript` to implement with any `web server framework` or even any user interface.
 
-<a href="https://github.com/harvic3/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
+<a href="https://github.com/medevorg/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
 
 
 ## Using Run-TSK
@@ -77,7 +77,7 @@ A root directory is where there is a package.json file.
 
 
 You can explore and follow the instructions in the official documentation about NodeTSKeleton
-<a href="https://github.com/harvic3/nodetskeleton?tab=readme-ov-file#create-your-first-use-case" target="_blank" >Go to NodeTskeleton</a>
+<a href="https://github.com/medevorg/nodetskeleton?tab=readme-ov-file#create-your-first-use-case" target="_blank" >Go to NodeTskeleton</a>
 
 ## Warning 💀
 

@@ -4,7 +4,7 @@ OpenAPI-tsk tool is one part of the `NodeTskeleton` template project to install,
 
 `NodeTskeleton` is a `Clean Architecture` based `template project` for `NodeJs` using `TypeScript` to implement with any `web server framework` or even any user interface.
 
-<a href="https://github.com/harvic3/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
+<a href="https://github.com/medevorg/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
 
 
 ## Using OpenAPI-TSK
@@ -396,7 +396,7 @@ The file is created in the root of the project with the name `openapi.json` and 
     "description": "Api documentation for NodeTSkeleton project",
     "contact": {
       "name": "TSK Support",
-      "url": "https://github.com/harvic3/nodetskeleton",
+      "url": "https://github.com/medevorg/nodetskeleton",
       "email": "harvic3@protonmail.com"
     },
     "license": {
@@ -751,7 +751,7 @@ The file is created in the root of the project with the name `openapi.json` and 
 ```
 
 You can explore and follow the instructions in the official documentation about NodeTSKeleton
-<a href="https://github.com/harvic3/nodetskeleton?tab=readme-ov-file#create-your-first-use-case" target="_blank" >Go to NodeTskeleton</a>
+<a href="https://github.com/medevorg/nodetskeleton?tab=readme-ov-file#create-your-first-use-case" target="_blank" >Go to NodeTskeleton</a>
 
 
 ## NodeJS Typical projects

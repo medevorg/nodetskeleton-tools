@@ -4,7 +4,7 @@ ResultJs tool y part of the `NodeTskeleton` template project.
 
 `NodeTskeleton` is a `Clean Architecture` based `template project` for `NodeJs` using `TypeScript` to implement with any `web server framework` or even any user interface.
 
-<a href="https://github.com/harvic3/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
+<a href="https://github.com/medevorg/nodetskeleton" target="_blank" >Go to NodeTskeleton</a>
  
 ## Using Result
 
@@ -212,7 +212,7 @@ result.setMetadata({ keyOne: "valueOne", keyTwo: 100, keyN: "valueN" });
 
 ## RunKit demo
 
-Go to this <a href="https://runkit.com/harvic3/demo-result-tsk" target="_blank" >Link</a> or click in `Try on RunKit button` on the right side of the page.
+Go to this <a href="https://runkit.com/medevorg/demo-result-tsk" target="_blank" >Link</a> or click in `Try on RunKit button` on the right side of the page.
 
 ## Warning 💀
 

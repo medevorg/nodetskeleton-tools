@@ -15,9 +15,9 @@ if [ -z "$PNPM_VERSION" ] && [ -z "$NPM_VERSION" ]; then
   exit 1
 fi
 
-# Clone the repository from https://github.com/harvic3/nodetskeleton.git
+# Clone the repository from https://github.com/medevorg/nodetskeleton.git
 echo "Cloning the nodetskeleton from origin"
-git clone https://github.com/harvic3/nodetskeleton.git
+git clone https://github.com/medevorg/nodetskeleton.git
 
 # Check if the repository was cloned in folder nodetskeleton
 if [ ! -d "nodetskeleton" ]; then

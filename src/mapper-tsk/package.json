@@ -4,7 +4,7 @@
   "description": "mapper tool to use with or without NodeTskeleton template project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harvic3/nodetskeleton-tools"
+    "url": "https://github.com/medevorg/nodetskeleton-tools"
   },
   "keywords": [
     "mapper",
@@ -17,9 +17,9 @@
   ],
   "author": "Vickodev<harvic3@proton.me>",
   "license": "BSD 3-Clause",
-  "homepage": "https://github.com/harvic3/nodetskeleton-tools/blob/master/src/mapper-tsk/README.md",
+  "homepage": "https://github.com/medevorg/nodetskeleton-tools/blob/master/src/mapper-tsk/README.md",
   "bugs": {
-    "url": "https://github.com/harvic3/nodetskeleton-tools/issues"
+    "url": "https://github.com/medevorg/nodetskeleton-tools/issues"
   },
   "directories": {
     "lib": "lib"
