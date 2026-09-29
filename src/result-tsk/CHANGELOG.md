@@ -158,3 +158,7 @@
 ### Update
 
 - Some features were added.
+
+## [2.2.5] — 2026-05-24
+
+- Origin was changed to an organization medevorg

@@ -52,3 +52,7 @@
 ### Update
 
 - Packages were updated.
+
+## [1.0.10] — 2026-05-24
+
+- Origin was changed to an organization medevorg
