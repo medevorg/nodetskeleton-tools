@@ -56,3 +56,7 @@
 
 - Added more content types in HttpContentTypeEnum
 - Updated TypeDescriber to support primitive types directly
+
+## [1.1.10] — 2026-05-24
+
+- Origin was changed to an organization medevorg

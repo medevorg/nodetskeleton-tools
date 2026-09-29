@@ -39,3 +39,7 @@
 ## [1.1.2] — 2026-02-19
 
 - Fixed env value from development to dev.
+
+## [1.1.3] - 2026-05-24 
+
+- Origin was changed to an organization medevorg

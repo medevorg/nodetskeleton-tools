@@ -22,7 +22,7 @@
     "work flow"
   ],
   "author": "Vickodev<harvic3@proton.me>",
-  "license": "MIT",
+  "license": "BSD 3-Clause",
   "bugs": {
     "url": "https://github.com/medevorg/nodetskeleton-tools/issues"
   },

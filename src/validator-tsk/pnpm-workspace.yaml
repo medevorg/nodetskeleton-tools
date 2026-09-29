@@ -1,0 +1,3 @@
+minimumReleaseAgeExclude:
+  - resources-tsk@2.5.7
+  - result-tsk@2.2.5
